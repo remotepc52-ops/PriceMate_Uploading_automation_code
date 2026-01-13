@@ -1,0 +1,28 @@
+cookies = {
+    '_fbp': 'fb.2.1767934457215.828576790597856419',
+    'callbell_uid': '4a67c230-ed17-11f0-8b3d-b7c10dda08f4',
+    'TS6ef1c577077': '08328b1ebeab2800e94c64f7ebd39f9633934fe2af3c1f4b3b1d61c5efde384e730a2e35611a0f4ae22fc19e7b1664a2080e8e8996172000c03a86e832bfa5566714880fe41603ba7b346ac203ed0c628bbe5c7ea18984de',
+    'XSRF-TOKEN': 'eyJpdiI6IlNYY3ZDcDRJM1h5ZjhLajRPaG5PK2c9PSIsInZhbHVlIjoibHA0RE9KMUgxSDc2RSsyemZNd1F0aTl1VVlOd2gyWVNEc0NLYThwV1FocVgyRXNUclV0QW1iZVVyNndiMjM0USIsIm1hYyI6ImQ0NWVmZmFjYTNjZTFiNGI4YjZhNTkwMWM2MzU2NmRiZTU0ZjZhZTIwYjY1Zjc4NjYxZTRhYTgxNWRlN2I4ZDAifQ%3D%3D',
+    'yogya_online_session': 'eyJpdiI6IkdkYjd4cHd4aFpRK2twNUl3VmNHcmc9PSIsInZhbHVlIjoiWWFjdnR0Y2VMSHBvTmNpaWMrNkJLXC84NmNwSXBlUEFHYVU2NVVyQjBZV1E3Q0RhbmZ4allrZVQzZmY2ME9zQWEiLCJtYWMiOiI5ZmM0ZjA1OWJiYTFhNGIzYWQzNmE1MmNmODE1N2QyZmI4NjJjMjNkNGNhZmM0OWIyYzQ5NTBmNWI2ODllZTBmIn0%3D',
+    'TS131d75c5027': '08328b1ebeab2000d3059d1f05c6cfdea0c0cd6243e11c09471d0e569ebace8f2f8dc737200cc01708f5b48d0f113000c83ece0e42c484f430fd8dea6a5a7ba91f6d5b4c03df930205d7d3956c06b3a986307ab621769779a9c3f9677959933a',
+}
+
+headers = {
+    'accept': 'application/json, text/plain, */*',
+    'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
+    'content-type': 'application/json;charset=UTF-8',
+    'origin': 'https://supermarket.yogyaonline.co.id',
+    'priority': 'u=1, i',
+    'referer': 'https://supermarket.yogyaonline.co.id/supermarket/fresh-susu-dan-olahannya-yoghurt/category',
+    'sec-ch-ua': '"Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'same-origin',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36',
+    'x-csrf-token': '',
+    'x-requested-with': 'XMLHttpRequest',
+    'x-xsrf-token': 'eyJpdiI6IlNYY3ZDcDRJM1h5ZjhLajRPaG5PK2c9PSIsInZhbHVlIjoibHA0RE9KMUgxSDc2RSsyemZNd1F0aTl1VVlOd2gyWVNEc0NLYThwV1FocVgyRXNUclV0QW1iZVVyNndiMjM0USIsIm1hYyI6ImQ0NWVmZmFjYTNjZTFiNGI4YjZhNTkwMWM2MzU2NmRiZTU0ZjZhZTIwYjY1Zjc4NjYxZTRhYTgxNWRlN2I4ZDAifQ==',
+    # 'cookie': '_fbp=fb.2.1767934457215.828576790597856419; callbell_uid=4a67c230-ed17-11f0-8b3d-b7c10dda08f4; TS6ef1c577077=08328b1ebeab2800e94c64f7ebd39f9633934fe2af3c1f4b3b1d61c5efde384e730a2e35611a0f4ae22fc19e7b1664a2080e8e8996172000c03a86e832bfa5566714880fe41603ba7b346ac203ed0c628bbe5c7ea18984de; XSRF-TOKEN=eyJpdiI6IlNYY3ZDcDRJM1h5ZjhLajRPaG5PK2c9PSIsInZhbHVlIjoibHA0RE9KMUgxSDc2RSsyemZNd1F0aTl1VVlOd2gyWVNEc0NLYThwV1FocVgyRXNUclV0QW1iZVVyNndiMjM0USIsIm1hYyI6ImQ0NWVmZmFjYTNjZTFiNGI4YjZhNTkwMWM2MzU2NmRiZTU0ZjZhZTIwYjY1Zjc4NjYxZTRhYTgxNWRlN2I4ZDAifQ%3D%3D; yogya_online_session=eyJpdiI6IkdkYjd4cHd4aFpRK2twNUl3VmNHcmc9PSIsInZhbHVlIjoiWWFjdnR0Y2VMSHBvTmNpaWMrNkJLXC84NmNwSXBlUEFHYVU2NVVyQjBZV1E3Q0RhbmZ4allrZVQzZmY2ME9zQWEiLCJtYWMiOiI5ZmM0ZjA1OWJiYTFhNGIzYWQzNmE1MmNmODE1N2QyZmI4NjJjMjNkNGNhZmM0OWIyYzQ5NTBmNWI2ODllZTBmIn0%3D; TS131d75c5027=08328b1ebeab2000d3059d1f05c6cfdea0c0cd6243e11c09471d0e569ebace8f2f8dc737200cc01708f5b48d0f113000c83ece0e42c484f430fd8dea6a5a7ba91f6d5b4c03df930205d7d3956c06b3a986307ab621769779a9c3f9677959933a',
+}

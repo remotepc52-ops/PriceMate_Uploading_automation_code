@@ -1,0 +1,6 @@
+@echo off
+echo redmart_cate running......................
+scrapy crawl redmart_cate -a retailer=lazada_redmart_sg -a region=sg -a Type=eshop -a RetailerCode=lazada_redmart_sg"
+
+echo category compliated redmart_pl start..............
+scrapy crawl redmart_pl -a retailer=lazada_redmart_sg -a region=sg -a Type=eshop -a RetailerCode=lazada_redmart_sg"
